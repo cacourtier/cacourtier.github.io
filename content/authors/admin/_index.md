@@ -2,9 +2,6 @@
 # Display name
 title: Catherine Courtier
 
-# Name pronunciation (optional)
-name_pronunciation: ''
-
 # Full name (for SEO)
 first_name: Catherine
 last_name: Courtier
